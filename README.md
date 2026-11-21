@@ -1,1 +1,1 @@
-[![Hits](https://hits.sh/github.com/MouhammadMansour.svg)](https://hits.sh/github.com/MouhammadMansour/)
+[![Hits](https://hits.sh/github.com/MouhammadMansour.svg?color=5207b4&labelColor=000000&logo=securityscorecard)](https://hits.sh/github.com/MouhammadMansour/)
