@@ -27,5 +27,17 @@
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a> -->
 </div>
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,nodejs,js,git" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,py" /><br>
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kali Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
+</p>
 
 <hr>
